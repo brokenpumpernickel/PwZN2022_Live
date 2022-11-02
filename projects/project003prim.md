@@ -1,21 +1,18 @@
-# Projekt III
-*Magiczny Świat Pythona - dekoratory*
+# Projekt III'
+*Magiczny Świat Pythona - dekoratory prim*
 
 ---
 
 ## Opis
 
-Celem tego projektu jest napisanie dekoratora, który zlicza czas każdego wykonania funkcji i pozwala potem na wyciągnięcie statystyk (np. średnia, min, max, sdev), które sam oblicza i udostępnia.
+Celem tego całkowicie nieobowiązkowego projektu jest własnoręczne napisanie dekoratora, który replikuje funkcjonalność wbudowanego dekoratora @property.
 
 ## Skrypt przyjmuje jako parametry:
-- kompletnie nic
 
 ## Skrypt zwraca:
-- nic nie zwraca
 
 ## Wymagania:
-- napisać dekorator
-- sprawdzić czy działa dla jakiejś czasochłonnej funkcji (można sobie w numpy jakąś znaleźć)
+- napisać dekorator replikujący funkcjonalność wbudowanego dekoratora @property (zarówno w przypadku settera, jak i gettera)
 
 ## Przydatne biblioteki:
 
