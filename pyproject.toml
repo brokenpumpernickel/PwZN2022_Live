@@ -19,6 +19,8 @@ numpy = "^1.23.5"
 numba = "^0.56.4"
 matplotlib = "^3.6.2"
 jupyterlab = "^3.5.0"
+scipy = "^1.9.3"
+sympy = "^1.11.1"
 
 
 [build-system]
