@@ -1,7 +1,7 @@
 import functools
 import time
 
-@functools.cache
+#@functools.cache
 def fibon(n):
     if n < 2:
         return n
