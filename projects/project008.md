@@ -1,4 +1,4 @@
-# Projekt VII
+# Projekt VIII
 *❤ Analizę Matematyczną  - Całkowanie Równań*
 
 ---
