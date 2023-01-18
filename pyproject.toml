@@ -22,6 +22,7 @@ jupyterlab = "^3.5.0"
 scipy = "^1.9.3"
 sympy = "^1.11.1"
 bokeh = "^3.0.3"
+pandas = "^1.5.2"
 
 
 [build-system]
